@@ -35,6 +35,10 @@
 	.feature-text h2 {
 		margin-bottom: 6px;
 	}
+
+	.btn-submit {
+		width: 100% !important;
+	}
 }
 
 /* Small devices (landscape phones, 576px and up) */
